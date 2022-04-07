@@ -49,6 +49,18 @@ Using Excel skills to visualize the percentage of successful, failed, and cancel
 
 - What can you conclude about the Outcomes based on Goals?
 
+This simple table allows us to determine a few things. For one, failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns. Louise is asking for more than twice the average successful Kickstarter goal, so this isn't great news for her campaign. In addition, the mean and median pledged amounts are much lower than the successful pledges, which indicates that failed Kickstarter campaigns are unsuccessful for reasons other than asking for too much money. In other words, if the failed projects were also getting a median pledge amount of around $3,000, it's possible that those that failed just asked for too high of a price. Since the median is much lower, there must be another factor keeping people from pledging to those unsuccessful projects.
+
 - What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+. The mean of each distribution is around the 3rd quartile, so the data follows similar distributions in each subset.
+
+. The standard deviations are larger than the mean, which means everything below the mean is considered "close" to the center.
+
+. Some large values are driving all of these distributions. The standard deviations are all roughly twice the IQR in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR. There must be some failed Kickstarters with really high goals.
+
+What are some other possible tables and/or graphs that we could create?
+**Box Plots**
+We'll use box plots, also called box and whisker plots, to compare the distribution of campaign goals and the distribution of total amounts.
+**Bar chart**
+We'll use bar charts to analyse trends and distribution of points and comparison of the amounts in campaign goals of data.
