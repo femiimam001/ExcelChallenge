@@ -13,7 +13,27 @@ This project involve the use of excel power funtions and calculation to determin
 
 ### Analysis of Outcomes Based on Launch Date
 
-### Analysis of Outcomes Based on Goals
+Pivot tables and pivot lines charts were used in detremining the outcome based on lunch dates and are extremely versatile and powerful tools. They allow us to pick and choose the data we want to analyze and then tweak it with visual customizations. Pivot tables also let us continue to tweak the view by filtering our chosen data after it's been set to the line graph. to show outcomes based on trends.
+
+The following steps were taken in determining the outcome based on launch date line graph:
+
+-Convert Unix Timestamps to Readable Format
+
+-Create a New Pivot Chart
+
+-Rename the new sheet "Outcomes Based on Launch Date."
+
+-Right-click the chart image and hover over "Change Chart Type."
+
+-Select "Line" from the pop-up menu.
+
+-Select the "Line with Markers" chart type from the next pop-up menu.
+
+Looking at our new chart, it shows the months of May and June both have a greater success rate:
+
+![Theater_outcome vs Lauch date]()
+
+# Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
 
