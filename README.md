@@ -35,6 +35,10 @@ Looking at our new chart, it shows the months of May and June both have a greate
 
 # Analysis of Outcomes Based on Goals
 
+Using Excel skills to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.We would need to use a new function, COUNTIFS(), to collect the outcome and goal data for the “plays” subcategory.
+
+![Outcomes_vs_Goals]()
+
 ### Challenges and Difficulties Encountered
 
 ## Results
