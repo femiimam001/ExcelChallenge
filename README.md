@@ -60,7 +60,9 @@ This simple table allows us to determine a few things. For one, failed Kickstart
 . Some large values are driving all of these distributions. The standard deviations are all roughly twice the IQR in each distribution, except in the failed Kickstarters, where the standard deviation is closer to three times the IQR. There must be some failed Kickstarters with really high goals.
 
 What are some other possible tables and/or graphs that we could create?
+
 **Box Plots**
 We'll use box plots, also called box and whisker plots, to compare the distribution of campaign goals and the distribution of total amounts.
+
 **Bar chart**
 We'll use bar charts to analyse trends and distribution of points and comparison of the amounts in campaign goals of data.
