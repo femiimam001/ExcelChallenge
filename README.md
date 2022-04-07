@@ -31,7 +31,7 @@ The following steps were taken in determining the outcome based on launch date l
 
 Looking at our new chart, it shows the months of May and June both have a greater success rate:
 
-![Theater_outcome vs Lauch date]()
+![Theater_outcome vs Lauch date](https://github.com/femiimam001/ExcelChallenge/blob/main/Resources/Theater_outcome_vs_Launch_date.PNG)
 
 # Analysis of Outcomes Based on Goals
 
