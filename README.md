@@ -39,6 +39,8 @@ Using Excel skills to visualize the percentage of successful, failed, and cancel
 
 ![Outcomes_vs_Goals](https://github.com/femiimam001/ExcelChallenge/blob/main/Resources/Outcomes_vs_Goals.png)
 
+![use_of_function_on_data](https://github.com/femiimam001/ExcelChallenge/blob/main/Resources/use_of_function_on_data.PNG)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
